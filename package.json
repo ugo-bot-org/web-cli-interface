@@ -1,0 +1,22 @@
+{
+    "name": "ugo-bot-web-cli",
+    "version": "1.0.0",
+    "description": "Ugo's web CLI interface. This interface sets core functions on Hugo",
+    "main": "webpack.config.js",
+    "scripts": {
+        "build": "webpack"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^2.5.2",
+        "web-onion": "3.0.8"
+    },
+    "devDependencies": {
+        "css-loader": "^0.28.9",
+        "style-loader": "^0.19.1",
+        "ts-loader": "^2.3.7",
+        "webpack": "^3.6.0",
+        "webpack-dev-server": "^2.8.2"
+    }
+}
