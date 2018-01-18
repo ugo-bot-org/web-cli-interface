@@ -6,8 +6,8 @@
     "scripts": {
         "build": "webpack"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "Caius Citiriga",
+    "license": "MIT",
     "dependencies": {
         "typescript": "^2.5.2",
         "web-onion": "3.0.8"
